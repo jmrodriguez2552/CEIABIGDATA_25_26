@@ -24,3 +24,10 @@ build/
 
 # Tox virtual environments
 .tox/
+
+# Directories and files to ignore
+/MODELOS_INTELIGENCIA_ARTIFICIAL_25_26/UT_03_NLP/resultado_sentiment_es_public/
+/MODELOS_INTELIGENCIA_ARTIFICIAL_25_26/UT_03_NLP/tree.ps
+MODELOS_INTELIGENCIA_ARTIFICIAL_25_26/NOTEBOOKS DEL AULA/UT_03_NLP/tree.ps
+
+MODELOS_INTELIGENCIA_ARTIFICIAL_25_26/NOTEBOOKS DEL AULA/UT_03_NLP/resultado_sentiment_es_public/
