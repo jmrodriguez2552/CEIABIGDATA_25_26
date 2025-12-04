@@ -31,3 +31,22 @@ build/
 MODELOS_INTELIGENCIA_ARTIFICIAL_25_26/NOTEBOOKS DEL AULA/UT_03_NLP/tree.ps
 
 MODELOS_INTELIGENCIA_ARTIFICIAL_25_26/NOTEBOOKS DEL AULA/UT_03_NLP/resultado_sentiment_es_public/
+
+# Ignorar checkpoints y modelos IA
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.pth
+
+# Carpetas típicas de modelos NLP/Transformers
+checkpoint-*/
+checkpoints/
+models/
+model/
+**/checkpoint-*/
+
+# Ignorar outputs de entrenamiento
+outputs/
+**/outputs/
+
