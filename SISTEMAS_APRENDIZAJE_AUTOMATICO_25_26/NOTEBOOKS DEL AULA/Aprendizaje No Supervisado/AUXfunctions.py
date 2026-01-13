@@ -89,7 +89,7 @@ def plot_silhouette(X, range_n_clusters):
         print(
             "Para n_clusters =",
             n_clusters,
-            "La media de silhouette_score is :",
+            "La media de silhouette_score es: ",
             silhouette_avg,
         )
 
